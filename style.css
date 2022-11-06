@@ -1,0 +1,31 @@
+
+.hidden{
+  display: none;
+}
+*{text-decoration: none; list-style: none; color: #fff;}
+
+button{ background:none; margin-left: 10px; border: none;  }
+h1{font-weight: bold;}
+li {text-align: left; display: inline-block; margin-left: 10px;}
+
+#main{ letter-spacing: 5px;}
+  
+#wrap{
+  width: 1200;
+  height: 600px;
+  text-align: center;
+  position: relative;
+  margin-top: 50px;
+}
+#todo-form input{ color: #333;}
+
+.back{ width: 800px; height: 430px;
+  top: 30%; left: 50%; transform: translate(-50%, -50%);
+  background-size: contain;
+  position: absolute; opacity: 70%;
+z-index: -1; margin-top: 10px;}
+#clock{ position: absolute; right: 20%; top:0; font-size: 20px; color: #fff;}
+.section{margin-top: 50px;}
+
+footer{margin-top: 200px;}
+.content{ height: 100px;}
