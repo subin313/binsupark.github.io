@@ -19,7 +19,7 @@ li {text-align: left; display: inline-block; margin-left: 10px;}
 }
 #todo-form input{ color: #333;}
 
-.back{ width: 800px; height: 430px;
+.back{ width: 800px; height: 470px;
   top: 30%; left: 50%; transform: translate(-50%, -50%);
   background-size: contain;
   position: absolute; opacity: 70%;
